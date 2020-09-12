@@ -1,3 +1,3 @@
 # spam
-Spam telepon
+Spam sms
 Wokeh
